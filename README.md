@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @finnius25
-- 👀 I’m interested in ...coding    
-- 🌱 I’m currently learning ...how to code
-- 💞️ I’m looking to collaborate on ...coding
-- 📫 How to reach me ...
 
 <!---
 finnius25/finnius25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
