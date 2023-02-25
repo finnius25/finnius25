@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @finnius25
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finnius25)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 finnius25/finnius25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
